@@ -6,10 +6,12 @@ Welcome to the world of collaborative software development! As budding Artificia
 
 - **What is GitHub? 🌐**
   - Think of GitHub as a platform that allows multiple people to work on the same project without stepping on each other's toes. It's like Google Docs for code!
+  ![What is GitHub🎬🍿](https://youtu.be/pBy1zgt0XPc)
   
 - **The difference between Git and GitHub:**
   - **Git** is a version-control system that tracks changes in computer files. It's the underlying system that allows multiple people to work on the same project.
   - **GitHub** is a hosting service for Git repositories. It's a platform that uses Git in the background and adds some neat features on top, like a visual interface, collaboration tools, and more.
+  ![Difference between Git and Github🎬🍿](https://youtu.be/wpISo9TNjfU)
 
 ## Setting Up 🛠️
 

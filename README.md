@@ -1,7 +1,3 @@
-Got it! Let's streamline the `README.md` by directly incorporating the notice's content without an additional reference to the `./NOTICE` file.
-
----
-
 # GitHub Guide for Beginners 🚀
 
 Welcome, first-year AI enthusiasts from THD/DIT! Embarking on your journey into Artificial Intelligence Engineering, this GitHub guide is tailored just for you. We aim to help you navigate GitHub, embrace collaborative development, and gain insights into enterprise workflows.

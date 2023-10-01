@@ -29,6 +29,12 @@ Welcome, future AI engineers of THD/DIT! In your journey, beyond algorithms and 
 2. **Communication:** 🗣️
    - Discussing work with your team is paramount. Regular check-ins, meetings, and open channels of communication ensure that everyone is aligned. When developing AI solutions, clarity is crucial. Misunderstandings can lead to models behaving unpredictably. So, always speak up, ask questions, and share insights!
 
+## Additional resources ➕
+
+- ["The Art of Enterprise Naming Patterns: Optimizing Commits and Branching"](https://dev.to/hlexnc/the-art-of-enterprise-naming-patterns-optimizing-commits-and-branching-3823 )
+- ["Planning next to your code - ..."](https://github.blog/2022-07-27-planning-next-to-your-code-github-projects-is-now-generally-available/)
+- ["How we’re using projects to build projects"](https://github.blog/2022-05-16-how-were-using-projects-to-build-projects/)
+
 ---
 
 Remember, while the technical bits are fascinating, the collaborative spirit, understanding of workflows, and effective communication are what truly drive successful AI projects. Embrace the journey at THD/DIT and happy learning! 🚀📚
